@@ -1,8 +1,8 @@
 # PK Proxy Manager 다운로드
 
-이 저장소에는 PK Proxy Manager의 **설치 파일과 릴리스 안내만** 게시합니다. 소스 코드는 별도 비공개 저장소에서 관리합니다.
+PK Proxy Manager는 이제 소스 코드와 설치 파일을 같은 공개 저장소에서 배포합니다. 이 저장소에는 새 설치 파일을 게시하지 않습니다.
 
-최신 설치 파일: [Releases](https://github.com/gogiari/pk-rs-downloads/releases/latest)
+최신 설치 파일: [PK Proxy Manager Releases](https://github.com/gogiari/pk-rs/releases/latest)
 
 | 운영체제 | 설치 파일 | 업데이트 방법 |
 | --- | --- | --- |
